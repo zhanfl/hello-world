@@ -1,1 +1,2 @@
-# hello-world
+public class Singleton
+       private static
